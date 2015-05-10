@@ -1,0 +1,28 @@
+div {
+	box-sizing: border-box;
+}
+
+#mainContainer {
+	width:750px;
+	height:750px;
+	background-color: #525252;
+	margin: auto;
+	border: 1px solid black;
+}
+
+form {
+text-align: center;
+margin: 20px 0;
+}
+
+.cell {
+	display: inline-block;
+}
+
+.row {
+
+}
+
+.green {
+	background-color: green;
+}
